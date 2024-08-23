@@ -103,8 +103,8 @@ export const info = {
     },
     {
       title: "E-Commerce Application",
-      live: "#",
-      source: "https://github.com/Talibb1/React-E-Commerce",
+      live: "https://next-js-full-stack-e-commerce-application.vercel.app/",
+      source: "https://github.com/Talibb1/Next-JS-Full-Stack-E-Commerce-Application",
       image: mock3,
     },
     {
